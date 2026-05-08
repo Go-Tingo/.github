@@ -1,3 +1,9 @@
+> [!CAUTION]  
+> This project will transition from open-source to closed-source due to compliance requirements and potential use in internal/company-related services. The repository will no longer be publicly maintained going forward. Thank you for your interest and support.
+
+
+---
+
 <p align="center">
   <img src="docs/img/logo.png" alt="Tingo" width="180">
 </p>
