@@ -58,10 +58,3 @@ cp -r services/account services/my-svc      # public REST + JWT issuer
 find services/my-svc -type f -exec sed -i '' 's|account|my-svc|g' {} +
 ```
 
-That's the whole onboarding. Edit `services/my-svc/`, add a block in `deployments/compose/docker-compose.yml`, ship.
-
-## Tingo Arch
-
-<p align="center">
-  <img src="docs/img/tingo-arch.jpeg" alt="Tingo architecture overview">
-</p>
